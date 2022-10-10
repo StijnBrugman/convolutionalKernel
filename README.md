@@ -27,7 +27,7 @@ flags:
 * -g | Debug mode
 
 ## Useful sources
-[https://github.com/Xilinx/Vitis-HLS-Introductory-Examples/blob/master/]
+- https://github.com/Xilinx/Vitis-HLS-Introductory-Examples/blob/master/
 
 ## Contact
 For more information about the project, you can contact Stijn Brugman ([s.r.d.brugman@student.utwente.nl](mailto:s.r.d.brugman@student.utwente.nl)).
