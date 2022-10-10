@@ -4,7 +4,7 @@
 
 ## Details
 * Kernal size: 3x3
-* Matrix size: 3x3
+* Matrix size: 80x300
 
 ## Implementation steps
 - [x] Load distance_vector data from file
